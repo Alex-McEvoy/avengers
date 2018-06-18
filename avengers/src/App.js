@@ -15,7 +15,7 @@ class App extends Component {
     return (
       <div className="App">
       <header className="App-header">
-        <h1 className="App-title">Avengers</h1>
+        <h1 className="App-title">Avengers by Alex</h1>
       </header>
       <div>
         <SuperHeroes superHeroesData={this.state.avengers} />
